@@ -127,7 +127,7 @@ function(){
 
 ## 超文本链接 `[链接接名称](链接地址)`
 
-[百度一下,你就知道](www.baidu.com)  
+[百度一下,你就知道](http://www.baidu.com)  
 
 <http://www.baidu.com>
 
