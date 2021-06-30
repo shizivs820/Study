@@ -3,6 +3,6 @@
 
 ---
 
-#### [Markdown练习](./markdown)
+#### [Markdown练习](markdown)
 
 #### [前端练习题](exercises)
